@@ -1,6 +1,8 @@
 
 # EX3-OOP- Directed Weighted Graph
 
+![image](https://github.com/guyShimoni/Directed-Weighted-Graph-ex3-oop/blob/main/doc/G_10_80_1.png)
+
 This project is about weighted directed graph with graph theory algoritms (Dijkstra, DFS..).
 there is implemention of a directed weighted graph which functions such as add new node to the graph , finds all the Strongly Connected Component and more.
 we implement graphs according to the json format.
